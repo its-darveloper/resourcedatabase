@@ -1,0 +1,542 @@
+[
+    {
+        "aspect": "cybersecurity",
+        "title": "Google Cybersecurity",
+        "url": "https://www.coursera.org/professional-certificates/google-cybersecurity"
+    },
+    {
+        "aspect": "cybersecurity",
+        "title": "Foundations of Cybersecurity",
+        "url": "https://www.coursera.org/learn/foundations-of-cybersecurity"
+    },
+    {
+        "aspect": "cybersecurity",
+        "title": "Cybersecurity for Everyone",
+        "url": "https://www.coursera.org/learn/cybersecurity-for-everyone"
+    },
+    {
+        "aspect": "cybersecurity",
+        "title": "IBM Cybersecurity Analyst",
+        "url": "https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst"
+    },
+    {
+        "aspect": "cybersecurity",
+        "title": "Introduction to Cybersecurity Fundamentals",
+        "url": "https://www.coursera.org/learn/introduction-to-cybersecurity-fundamentals"
+    },
+    {
+        "aspect": "cybersecurity",
+        "title": "Microsoft Cybersecurity Analyst",
+        "url": "https://www.coursera.org/professional-certificates/microsoft-cybersecurity-analyst"
+    },
+    {
+        "aspect": "cybersecurity",
+        "title": "Certified in Cybersecurity",
+        "url": "https://www.coursera.org/specializations/certified-in-cybersecurity"
+    },
+    {
+        "aspect": "cybersecurity",
+        "title": "Introduction to Cybersecurity Tools & Cyber Attacks",
+        "url": "https://www.coursera.org/learn/introduction-cybersecurity-cyber-attacks"
+    },
+    {
+        "aspect": "cybersecurity",
+        "title": "IT Fundamentals for Cybersecurity",
+        "url": "https://www.coursera.org/specializations/it-fundamentals-cybersecurity"
+    },
+    {
+        "aspect": "cybersecurity",
+        "title": "Google IT Support",
+        "url": "https://www.coursera.org/professional-certificates/google-it-support"
+    },
+    {
+        "aspect": "cybersecurity",
+        "title": "IBM and ISC2 Cybersecurity Specialist",
+        "url": "https://www.coursera.org/professional-certificates/ibm-isc2-cybersecurity-specialist"
+    },
+    {
+        "aspect": "cybersecurity",
+        "title": "Introduction to Cyber Security",
+        "url": "https://www.coursera.org/specializations/intro-cyber-security"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "Master of Applied Data Science",
+        "url": "https://www.coursera.org/degrees/master-of-applied-data-science-umich"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "Master of Business Administration (iMBA)",
+        "url": "https://www.coursera.org/degrees/imba"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "Master of Computer Science in Data Science",
+        "url": "https://www.coursera.org/degrees/masters-in-computer-data-science"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "Master of Computer Science",
+        "url": "https://www.coursera.org/degrees/master-of-computer-science-illinois"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "Master of Science in Computer Science",
+        "url": "https://www.coursera.org/degrees/ms-computer-science-boulder"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "Master of Science in Data Science",
+        "url": "https://www.coursera.org/degrees/master-of-science-data-science-boulder"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "Master of Science in Accountancy (iMSA)",
+        "url": "https://www.coursera.org/degrees/imsa"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "Bachelor of Arts in Liberal Studies",
+        "url": "https://www.coursera.org/degrees/ba-liberal-studies-georgetown"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "Master of Advanced Study in Engineering",
+        "url": "https://www.coursera.org/degrees/mas-engineering-berkeley"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "Master of Science in Management (iMSM)",
+        "url": "https://www.coursera.org/degrees/ms-management-illinois"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "Master of Engineering in Computer Engineering",
+        "url": "https://www.coursera.org/degrees/meng-computer-engineering-dartmouth"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "Master of Science in Machine Learning and Data Science",
+        "url": "https://www.coursera.org/degrees/msc-machine-learning-imperial"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "Google Data Analytics",
+        "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "Google Project Management:",
+        "url": "https://www.coursera.org/professional-certificates/google-project-management"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "IBM Data Analyst",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-analyst"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "IBM AI Developer",
+        "url": "https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "Google Cybersecurity",
+        "url": "https://www.coursera.org/professional-certificates/google-cybersecurity"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "IBM Data Science",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-science"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "IBM DevOps and Software Engineering",
+        "url": "https://www.coursera.org/professional-certificates/devops-and-software-engineering"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "IBM & Darden Digital Strategy",
+        "url": "https://www.coursera.org/specializations/digital-strategy"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "Google Digital Marketing & E-commerce",
+        "url": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "IBM Full Stack Software Developer",
+        "url": "https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "IBM Back-End Development",
+        "url": "https://www.coursera.org/professional-certificates/ibm-backend-development"
+    },
+    {
+        "aspect": "software engineering",
+        "title": "IBM Data Engineering",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-engineer"
+    },
+    {
+        "aspect": "data science",
+        "title": "Master of Applied Data Science",
+        "url": "https://www.coursera.org/degrees/master-of-applied-data-science-umich"
+    },
+    {
+        "aspect": "data science",
+        "title": "Master of Business Administration (iMBA)",
+        "url": "https://www.coursera.org/degrees/imba"
+    },
+    {
+        "aspect": "data science",
+        "title": "Master of Computer Science in Data Science",
+        "url": "https://www.coursera.org/degrees/masters-in-computer-data-science"
+    },
+    {
+        "aspect": "data science",
+        "title": "Master of Computer Science",
+        "url": "https://www.coursera.org/degrees/master-of-computer-science-illinois"
+    },
+    {
+        "aspect": "data science",
+        "title": "Master of Science in Computer Science",
+        "url": "https://www.coursera.org/degrees/ms-computer-science-boulder"
+    },
+    {
+        "aspect": "data science",
+        "title": "Master of Science in Data Science",
+        "url": "https://www.coursera.org/degrees/master-of-science-data-science-boulder"
+    },
+    {
+        "aspect": "data science",
+        "title": "Master of Science in Accountancy (iMSA)",
+        "url": "https://www.coursera.org/degrees/imsa"
+    },
+    {
+        "aspect": "data science",
+        "title": "Bachelor of Arts in Liberal Studies",
+        "url": "https://www.coursera.org/degrees/ba-liberal-studies-georgetown"
+    },
+    {
+        "aspect": "data science",
+        "title": "Master of Advanced Study in Engineering",
+        "url": "https://www.coursera.org/degrees/mas-engineering-berkeley"
+    },
+    {
+        "aspect": "data science",
+        "title": "Master of Science in Management (iMSM)",
+        "url": "https://www.coursera.org/degrees/ms-management-illinois"
+    },
+    {
+        "aspect": "data science",
+        "title": "Master of Engineering in Computer Engineering",
+        "url": "https://www.coursera.org/degrees/meng-computer-engineering-dartmouth"
+    },
+    {
+        "aspect": "data science",
+        "title": "Master of Science in Machine Learning and Data Science",
+        "url": "https://www.coursera.org/degrees/msc-machine-learning-imperial"
+    },
+    {
+        "aspect": "data science",
+        "title": "Google Data Analytics",
+        "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+    },
+    {
+        "aspect": "data science",
+        "title": "Google Project Management:",
+        "url": "https://www.coursera.org/professional-certificates/google-project-management"
+    },
+    {
+        "aspect": "data science",
+        "title": "IBM Data Analyst",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-analyst"
+    },
+    {
+        "aspect": "data science",
+        "title": "IBM AI Developer",
+        "url": "https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai"
+    },
+    {
+        "aspect": "data science",
+        "title": "Google Cybersecurity",
+        "url": "https://www.coursera.org/professional-certificates/google-cybersecurity"
+    },
+    {
+        "aspect": "data science",
+        "title": "IBM Data Science",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-science"
+    },
+    {
+        "aspect": "data science",
+        "title": "IBM DevOps and Software Engineering",
+        "url": "https://www.coursera.org/professional-certificates/devops-and-software-engineering"
+    },
+    {
+        "aspect": "data science",
+        "title": "IBM & Darden Digital Strategy",
+        "url": "https://www.coursera.org/specializations/digital-strategy"
+    },
+    {
+        "aspect": "data science",
+        "title": "Google Digital Marketing & E-commerce",
+        "url": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce"
+    },
+    {
+        "aspect": "data science",
+        "title": "IBM Full Stack Software Developer",
+        "url": "https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer"
+    },
+    {
+        "aspect": "data science",
+        "title": "IBM Back-End Development",
+        "url": "https://www.coursera.org/professional-certificates/ibm-backend-development"
+    },
+    {
+        "aspect": "data science",
+        "title": "IBM Data Engineering",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-engineer"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "Master of Applied Data Science",
+        "url": "https://www.coursera.org/degrees/master-of-applied-data-science-umich"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "Master of Business Administration (iMBA)",
+        "url": "https://www.coursera.org/degrees/imba"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "Master of Computer Science in Data Science",
+        "url": "https://www.coursera.org/degrees/masters-in-computer-data-science"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "Master of Computer Science",
+        "url": "https://www.coursera.org/degrees/master-of-computer-science-illinois"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "Master of Science in Computer Science",
+        "url": "https://www.coursera.org/degrees/ms-computer-science-boulder"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "Master of Science in Data Science",
+        "url": "https://www.coursera.org/degrees/master-of-science-data-science-boulder"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "Master of Science in Accountancy (iMSA)",
+        "url": "https://www.coursera.org/degrees/imsa"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "Bachelor of Arts in Liberal Studies",
+        "url": "https://www.coursera.org/degrees/ba-liberal-studies-georgetown"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "Master of Advanced Study in Engineering",
+        "url": "https://www.coursera.org/degrees/mas-engineering-berkeley"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "Master of Science in Management (iMSM)",
+        "url": "https://www.coursera.org/degrees/ms-management-illinois"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "Master of Engineering in Computer Engineering",
+        "url": "https://www.coursera.org/degrees/meng-computer-engineering-dartmouth"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "Master of Science in Machine Learning and Data Science",
+        "url": "https://www.coursera.org/degrees/msc-machine-learning-imperial"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "Google Data Analytics",
+        "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "Google Project Management:",
+        "url": "https://www.coursera.org/professional-certificates/google-project-management"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "IBM Data Analyst",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-analyst"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "IBM AI Developer",
+        "url": "https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "Google Cybersecurity",
+        "url": "https://www.coursera.org/professional-certificates/google-cybersecurity"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "IBM Data Science",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-science"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "IBM DevOps and Software Engineering",
+        "url": "https://www.coursera.org/professional-certificates/devops-and-software-engineering"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "IBM & Darden Digital Strategy",
+        "url": "https://www.coursera.org/specializations/digital-strategy"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "Google Digital Marketing & E-commerce",
+        "url": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "IBM Full Stack Software Developer",
+        "url": "https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "IBM Back-End Development",
+        "url": "https://www.coursera.org/professional-certificates/ibm-backend-development"
+    },
+    {
+        "aspect": "machine learning",
+        "title": "IBM Data Engineering",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-engineer"
+    },
+    {
+        "aspect": "web development",
+        "title": "Master of Applied Data Science",
+        "url": "https://www.coursera.org/degrees/master-of-applied-data-science-umich"
+    },
+    {
+        "aspect": "web development",
+        "title": "Master of Business Administration (iMBA)",
+        "url": "https://www.coursera.org/degrees/imba"
+    },
+    {
+        "aspect": "web development",
+        "title": "Master of Computer Science in Data Science",
+        "url": "https://www.coursera.org/degrees/masters-in-computer-data-science"
+    },
+    {
+        "aspect": "web development",
+        "title": "Master of Computer Science",
+        "url": "https://www.coursera.org/degrees/master-of-computer-science-illinois"
+    },
+    {
+        "aspect": "web development",
+        "title": "Master of Science in Computer Science",
+        "url": "https://www.coursera.org/degrees/ms-computer-science-boulder"
+    },
+    {
+        "aspect": "web development",
+        "title": "Master of Science in Data Science",
+        "url": "https://www.coursera.org/degrees/master-of-science-data-science-boulder"
+    },
+    {
+        "aspect": "web development",
+        "title": "Master of Science in Accountancy (iMSA)",
+        "url": "https://www.coursera.org/degrees/imsa"
+    },
+    {
+        "aspect": "web development",
+        "title": "Bachelor of Arts in Liberal Studies",
+        "url": "https://www.coursera.org/degrees/ba-liberal-studies-georgetown"
+    },
+    {
+        "aspect": "web development",
+        "title": "Master of Advanced Study in Engineering",
+        "url": "https://www.coursera.org/degrees/mas-engineering-berkeley"
+    },
+    {
+        "aspect": "web development",
+        "title": "Master of Science in Management (iMSM)",
+        "url": "https://www.coursera.org/degrees/ms-management-illinois"
+    },
+    {
+        "aspect": "web development",
+        "title": "Master of Engineering in Computer Engineering",
+        "url": "https://www.coursera.org/degrees/meng-computer-engineering-dartmouth"
+    },
+    {
+        "aspect": "web development",
+        "title": "Master of Science in Machine Learning and Data Science",
+        "url": "https://www.coursera.org/degrees/msc-machine-learning-imperial"
+    },
+    {
+        "aspect": "web development",
+        "title": "Google Data Analytics",
+        "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+    },
+    {
+        "aspect": "web development",
+        "title": "Google Project Management:",
+        "url": "https://www.coursera.org/professional-certificates/google-project-management"
+    },
+    {
+        "aspect": "web development",
+        "title": "IBM Data Analyst",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-analyst"
+    },
+    {
+        "aspect": "web development",
+        "title": "IBM AI Developer",
+        "url": "https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai"
+    },
+    {
+        "aspect": "web development",
+        "title": "Google Cybersecurity",
+        "url": "https://www.coursera.org/professional-certificates/google-cybersecurity"
+    },
+    {
+        "aspect": "web development",
+        "title": "IBM Data Science",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-science"
+    },
+    {
+        "aspect": "web development",
+        "title": "IBM DevOps and Software Engineering",
+        "url": "https://www.coursera.org/professional-certificates/devops-and-software-engineering"
+    },
+    {
+        "aspect": "web development",
+        "title": "IBM & Darden Digital Strategy",
+        "url": "https://www.coursera.org/specializations/digital-strategy"
+    },
+    {
+        "aspect": "web development",
+        "title": "Google Digital Marketing & E-commerce",
+        "url": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce"
+    },
+    {
+        "aspect": "web development",
+        "title": "IBM Full Stack Software Developer",
+        "url": "https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer"
+    },
+    {
+        "aspect": "web development",
+        "title": "IBM Back-End Development",
+        "url": "https://www.coursera.org/professional-certificates/ibm-backend-development"
+    },
+    {
+        "aspect": "web development",
+        "title": "IBM Data Engineering",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-engineer"
+    }
+]
